@@ -96,7 +96,7 @@ Expenses Website/
      npm start
      \`\`\`
 
-The backend API will typically run on \`http://localhost:5000\`.
+The backend API will typically run on \`http://localhost:9999\`.
 
 ---
 
