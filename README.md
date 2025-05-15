@@ -136,9 +136,9 @@ The React app will open at \`http://localhost:3000\` and proxy API requests to t
 
 ## Author / Contact
 
-Developed by **[Your Name]**  
-Contact: [your.email@example.com]  
-GitHub: [your_github_profile]  
+Developed by **Hannah Mahmoud**  
+Contact: hanamahmoud178@gmail.com 
+ 
 
 ---
 
